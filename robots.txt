@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Shamozaki.github.io/emeraldrentals/sitemap.xml
